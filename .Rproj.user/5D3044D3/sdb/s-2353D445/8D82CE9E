@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "sumNat <- function(x)\n{ ((x-1)*(x)/2) }",
+    "created" : 1506365757058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1137481435",
+    "id" : "8D82CE9E",
+    "lastKnownWriteTime" : 1506365738,
+    "last_content_update" : 1506365738,
+    "path" : "C:/Users/usuario/Desktop/R_Projects/suman1/suman1/R/SumNat.R",
+    "project_path" : "R/SumNat.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

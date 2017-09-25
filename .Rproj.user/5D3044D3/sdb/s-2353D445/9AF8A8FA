@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: suman1\nType: Package\nTitle: Suman1\nVersion: 0.1.0\nAuthor: Joel Enriquez\nMaintainer: Joel Enriquez <joelcamiloenriquez@gmail.com>\nDescription: Calcula la suma de los n primeros numeros naturales\nLicense: LGPL-2.1\nEncoding: UTF-8\nLazyData: true\n",
+    "created" : 1506365767056.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4250519217",
+    "id" : "9AF8A8FA",
+    "lastKnownWriteTime" : 1506365876,
+    "last_content_update" : 1506365876517,
+    "path" : "C:/Users/usuario/Desktop/R_Projects/suman1/suman1/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

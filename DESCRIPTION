@@ -1,0 +1,10 @@
+Package: suman1
+Type: Package
+Title: Suman1
+Version: 0.1.0
+Author: Joel Enriquez
+Maintainer: Joel Enriquez <joelcamiloenriquez@gmail.com>
+Description: Calcula la suma de los n primeros numeros naturales
+License: LGPL-2.1
+Encoding: UTF-8
+LazyData: true
